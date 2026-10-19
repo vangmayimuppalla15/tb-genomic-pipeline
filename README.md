@@ -29,6 +29,8 @@ Instead of opening files and counting thousands of DNA letters manually with my 
 * **Average GC % of Sensitive Strains:** 64.69%
 * **Average GC % of Resistant Strains:** 66.40%
 * **Observed Genomic Shift:** +1.71% (The mutated strains show a clear upward shift in GC density).
+* ![M. tuberculosis GC-Content Shift Graph](project_graph.png)
+
 
 ---
 
