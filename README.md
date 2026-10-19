@@ -12,7 +12,7 @@ This is a local bioinformatics project I built during my 2nd year of B.Tech Biot
 
 ---
 
-##  2. What We Did in This Project
+##  2. What I Did in This Project
 Instead of opening files and counting thousands of DNA letters manually with my eyes, I built an automated Python pipeline that executes four core stages:
 
 1. **Cleaned Raw NCBI Data:** The pipeline opens the raw `.fna` file downloaded from NCBI Datasets. It skips the top title/header line (the line starting with `>`), cleans up hidden spacing breaks, and converts all sequence text into clean uppercase characters.
